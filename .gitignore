@@ -1,0 +1,12 @@
+# 忽略大文件和结果
+results/
+data/stats/*
+data/stats/cov_*.pkl
+*.zip
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+wandb/
+runs/
