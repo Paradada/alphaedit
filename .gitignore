@@ -1,7 +1,6 @@
 # 忽略大文件和结果
 results/
 data/stats/*
-!data/stats/cov_*.pkl
 *.zip
 __pycache__/
 *.pyc
@@ -10,4 +9,3 @@ __pycache__/
 .ipynb_checkpoints/
 wandb/
 runs/
-*.txt
